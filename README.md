@@ -1,6 +1,6 @@
 Privacy Policy for iMediate
 
-Effective Date: [Insert Date]
+Effective Date: 21.02.2025
 
 1. Introduction
 iMediate respects your privacy. This Privacy Policy explains how we handle your data when you use our app.
@@ -22,5 +22,5 @@ iMediate does not share, sell, or transmit any user data to third parties.
 We may update this Privacy Policy as needed. Any changes will be reflected within the app.
 
 7. Contact Us
-If you have any questions about this Privacy Policy, please contact us at [your contact email].
+If you have any questions about this Privacy Policy, please contact us at +31 6222 67448.
 
