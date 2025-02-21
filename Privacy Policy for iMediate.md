@@ -9,9 +9,10 @@ iMediate respects your privacy. This Privacy Policy explains how we handle your 
 iMediate requests access to your device’s calendar to log events within the app. We do not collect, store, or transmit any personal data outside your device.
 
 3. How We Use Your Data
+- Access your calendar to display and log events.
+- Allow you to organize and manage events within the app.
 
-Access your calendar to display and log events.
-Allow you to organize and manage events within the app.
+
 4. Data Security
 Since iMediate does not transmit or store your information externally, your data remains secure on your device.
 
